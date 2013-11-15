@@ -6,7 +6,7 @@
 
 - [getglimpse.com](http://getglimpse.com/)
 - [Course on Plurasight](http://blog.pluralsight.com/new-course-using-glimpse-with-asp-net-mvc4-and-entity-framework)
-- [Article on DotNetCuryy](http://www.dotnetcurry.com/ShowArticle.aspx?ID=923)
+- [Article on DotNetCurry](http://www.dotnetcurry.com/ShowArticle.aspx?ID=923)
 - [Scott Hanselman article](http://www.hanselman.com/blog/IfYoureNotUsingGlimpseWithASPNETForDebuggingAndProfilingYoureMissingOut.aspx)
 
 ## Miniprofiler
